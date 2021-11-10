@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp -->
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saehyen)](https://github.com/anuraghazra/github-readme-stats)
