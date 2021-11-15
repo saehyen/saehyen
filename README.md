@@ -10,10 +10,12 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saehyen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saehyen&layout=compact" />
-<hr>
+<a href="https://github.com/saehyen">
+<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=saehyen&show_icons=true&theme=dark" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saehyen&layout=compact" />
+</a>
+  <hr>
+  
 <!--
 **saehyen/saehyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
