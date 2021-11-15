@@ -12,7 +12,7 @@
 <hr>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saehyen&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saehyen&layout=compact" />
+<img align="right" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saehyen&layout=compact" />
 <hr>
 <!--
 **saehyen/saehyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
